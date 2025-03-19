@@ -18,8 +18,7 @@
 
       <div class="container shadow p-4 bg-white mt-5" >
           
-        <h2 style="font-family: Arial, Helvetica, sans-serif; color:black;">
-             </h2>
+        <h2 style="font-family: Arial, Helvetica, sans-serif; color:black;"> Seán Ó Dálaigh </h2>
         <div class="column" style="align-items: center;">
           <div style="background-color: black;" class="container">
             <div>
