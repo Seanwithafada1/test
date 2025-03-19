@@ -20,11 +20,12 @@
           
         <h2 style="font-family: Arial, Helvetica, sans-serif; color:black;">
              </h2>
-        <div class="column">
+        <div class="column" style="align-items: center;">
           <div style="background-color: black;" class="container">
             <div>
             <div><a href="https://seanwithafada1.github.io/Project24435589/" style="font-family: Arial, Helvetica, sans-serif;">Front Page</a></div>
             <div><a href="https://seanwithafada1.github.io/test/" style="font-family: Arial, Helvetica, sans-serif;">Past Work</a></div>
+    
         </div>
         </div>
         </div>
@@ -43,7 +44,7 @@
           <img src="DRMRstage.png"  width="200" 
           height="200" >
         </div>
-        <div><p></p></div>
+        <div><p> </p></div>
         <div class="column">
           <h2 style="font-size:large; font-family: Arial, Helvetica, sans-serif; color:black;">
             Other Designs:</h2>
