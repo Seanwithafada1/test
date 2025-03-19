@@ -23,6 +23,8 @@
           <div style="background-color: black;" class="container">
             <div>
             <div style="background-color: black;" class="container">
+            <img src="DRMRstage.png"  width="200" 
+      height="200" >
         <div>
         <div><a href="https://seanwithafada1.github.io/Project24435589/" style="font-family: Arial, Helvetica, sans-serif;">Front Page</a></div>
         <div><a href="https://seanwithafada1.github.io/test/" style="font-family: Arial, Helvetica, sans-serif;">Past Work</a></div>
