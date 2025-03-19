@@ -43,6 +43,7 @@
           <img src="DRMRstage.png"  width="200" 
           height="200" >
         </div>
+        <div></div>
         <div class="column">
           <h2 style="font-size:large; font-family: Arial, Helvetica, sans-serif; color:black;">
             Other Designs:</h2>
