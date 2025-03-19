@@ -23,8 +23,8 @@
         <div class="column">
           <div style="background-color: black;" class="container">
             <div>
-            <div><a href="file:///C:/Users/24435589/OneDrive%20-%20University%20of%20Limerick/Desktop/Html/CS4082W5/FrontPage.html" style="font-family: Arial, Helvetica, sans-serif;">Front Page</a></div>
-            <div><a href="file:///C:/Users/24435589/OneDrive%20-%20University%20of%20Limerick/Desktop/Html/CS4082W5/Graphic%20Design%20Page.html" style="font-family: Arial, Helvetica, sans-serif;">Past Work</a></div>
+            <div><a href="https://seanwithafada1.github.io/Project24435589/" style="font-family: Arial, Helvetica, sans-serif;">Front Page</a></div>
+            <div><a href="https://seanwithafada1.github.io/test/" style="font-family: Arial, Helvetica, sans-serif;">Past Work</a></div>
         </div>
         </div>
         </div>
