@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head style="background-color: rgb(46, 69, 88);">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Page</title>
+
+    <!-- Bootstrap 5 CDN -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="background-color: rgb(240, 230, 200);">
+
+    <div class="container shadow p-4 bg-white mt-5" style="background-color: rgb(46, 69, 88);">
+        <!-- Header Section -->
+        <div class="container" >
+            <img src="edited industrial copy.png" alt="Main Work" class="img-fluid">
+            <div class="centered" >
+                <h1 style="color:azure">Seán Ó Dálaigh</h1>
+                <p class="color: azure;">Portfolio</p>
+            </div>
+            <div>
+                <P></P>
+            </div>
+        </div>
+
+        <div style="background-color: black;" class="container">
+            <div>
+            <div><a href="file:///C:/Users/24435589/OneDrive%20-%20University%20of%20Limerick/Desktop/Html/CS4082W5/FrontPage.html" style="font-family: Arial, Helvetica, sans-serif;">Front Page</a></div>
+            <div><a href="file:///C:/Users/24435589/OneDrive%20-%20University%20of%20Limerick/Desktop/Html/CS4082W5/Graphic%20Design%20Page.html" style="font-family: Arial, Helvetica, sans-serif;">Past Work</a></div>
+        </div>
+        </div>
+        <div> <p></p></div>
+        <!-- Main Body -->
+        <div class="row 1; " >
+            <!-- Large Main Image -->
+           
+            <div class="col-md-6 ">
+                <h1 style="color:rgb(54, 54, 54); text-align: right;">About me:</h1>
+                <p style="color:rgb(54, 54, 54); text-align: right; font-size:x-large">My name is Seán Ó Dálaigh. I was born December 17 2005 in Tralee Co. Kerry.
+                     I'm studying Interaction design at University of Limerick. I'm on the committee for the Cumann Gaeilge (Irish Society) at UL.</p>
+               
+            </div>
+            <div class="col-md-5 text-center">
+            <img src="AboutME.JPG" 
+            alt="About Me" class="img-fluid">
+        </div>
+    </td>
+            <!-- Featured Work Section -->
+            
+        </div>
+    </div>
+
+    <!-- Bootstrap JS Bundle (Optional for dynamic components) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
